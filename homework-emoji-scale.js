@@ -1,6 +1,5 @@
 angleMode(DEGREES);
 background(255, 255, 255);
-
 push();
 scale(1.1);
 
